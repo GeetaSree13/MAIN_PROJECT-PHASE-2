@@ -60,4 +60,6 @@ A web browser to view the frontend.
 **DELETE /{id}**: Delete a task by ID.
 
 
+Home Page :
+![Screenshot (459)](https://github.com/user-attachments/assets/1dc7c4c6-cfb6-4c9c-889a-7a703c51571d)
 
