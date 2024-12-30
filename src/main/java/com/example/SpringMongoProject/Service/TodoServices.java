@@ -4,7 +4,7 @@ import com.example.SpringMongoProject.Entity.Todo;
 import com.example.SpringMongoProject.Entity.Todo;
 import com.example.SpringMongoProject.Repo.TodoRepo;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Service
 
 
 
