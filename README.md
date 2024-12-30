@@ -63,8 +63,16 @@ A web browser to view the frontend.
 **Home Page :**
 ![Screenshot (459)](https://github.com/user-attachments/assets/1dc7c4c6-cfb6-4c9c-889a-7a703c51571d)
 
-**List of all current Todos :**
+**View All Todos** : List of current Todos available in the application :- 
+
 ![Screenshot (460)](https://github.com/user-attachments/assets/e9a9f381-bcdb-4ad7-856b-af27911f3945)
 ![Screenshot (461)](https://github.com/user-attachments/assets/d07fdcc8-d8bc-4879-93fc-29f4441df9c8)
+
+Update a Todo: To demonstrate that all Todos are made as completed **i.e true**
+![Screenshot (462)](https://github.com/user-attachments/assets/4149d786-9573-4a84-bd5c-95cc0d28f6a8)
+![Screenshot (463)](https://github.com/user-attachments/assets/173fcb45-7927-4bcb-a09b-4d996e04f59c)
+
+
+
 
 
