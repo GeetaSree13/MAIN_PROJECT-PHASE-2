@@ -1,5 +1,6 @@
 **To-Do List Application**
-📖** **Overview**
+
+📖 **Overview**
 A simple and efficient To-Do List application that allows users to manage their tasks effectively. Built with:
 
 **Backend**: Spring Boot and MongoDB.
