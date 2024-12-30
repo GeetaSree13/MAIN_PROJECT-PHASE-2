@@ -2,6 +2,7 @@ package com.example.SpringMongoProject.Entity;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(collection = "todos")
 public class Todo {
